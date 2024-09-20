@@ -10,7 +10,7 @@ This is for education purpose only, use with ur own risk!
 
 - [Installation]
 - (Termux, Linux, Windows)
-- $ git clone https://github.com/kaimarks9/moonbix-bot.git
+- $ git clone https://github.com/huukhoa1412/Binance-Moonbix.git
 - $ cd moonbix-bot
 - $ pip install -r requirements.txt
 - $ python3 bot.py
